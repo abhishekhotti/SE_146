@@ -1,0 +1,18 @@
+Hello,
+
+This is the project submission for Project 3 Red-Black Tree implementation. One thing which pops up when you run my program 
+is you get a popup from Eclipse asking for permission to access incoming connections. I do not know why it does this, and 
+I have asked David, and he does not know either. But I just hit allow, and the program runs. 
+
+So, the poem file is called HottiAbhishekPoem.txt, right now the poem I have in there is The Raven by Edgar Allen Poe. 
+You can copy and paste any poem into this text file and it will run. The dictionary is read in from dictionary.txt. 
+
+In the console window, the time to read in the dictionary is displayed first, then the time to check all the words in 
+the poem with the dictionary is displayed, and then the words that were not found in the dictionary are displayed. 
+
+The splitting of words is done by this way, "don't" is counted as one word, bob-had is counted as two words "bob" and "had".
+Everything is displayed in lowerCase because it was easier to do the splitting if I considered everything as lowerCase letters.
+
+Thank you
+
+Abhishek Hotti
